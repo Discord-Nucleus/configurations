@@ -11,6 +11,7 @@
 		"node": ">=16.0.0"
 	},
 	"homepage": "https://github.com/Discord-Nucleus/configurations#readme",
+  "keywords": ["config", "tsconfig", "typescript"],
 	"license": "MIT",
 	"name": "@discord-nucleus/configurations",
 	"peerDependencies": {
