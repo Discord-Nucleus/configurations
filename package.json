@@ -1,29 +1,33 @@
 {
-	"author": {
-		"name": "Nucleus",
-		"url": "https://github.com/Discord-Nucleus"
-	},
-	"bugs": {
-		"url": "https://github.com/Discord-Nucleus/configurations/issues"
-	},
-	"description": "The package contains configurations used for Nucleus development.",
-	"engines": {
-		"node": ">=16.0.0"
-	},
-	"homepage": "https://github.com/Discord-Nucleus/configurations#readme",
-  "keywords": ["config", "tsconfig", "typescript"],
-	"license": "MIT",
-	"name": "@discord-nucleus/configurations",
-	"peerDependencies": {
-		"typescript": "^4.9.3"
-	},
-	"private": true,
-	"publishConfig": {
-		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Discord-Nucleus/configurations.git"
-	},
-	"version": "0.0.1"
+  "author": {
+    "name": "Nucleus",
+    "url": "https://github.com/Discord-Nucleus"
+  },
+  "bugs": {
+    "url": "https://github.com/Discord-Nucleus/configurations/issues"
+  },
+  "description": "The package contains configurations used for Nucleus development.",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "homepage": "https://github.com/Discord-Nucleus/configurations#readme",
+  "keywords": [
+    "config",
+    "tsconfig",
+    "typescript"
+  ],
+  "license": "MIT",
+  "name": "@discord-nucleus/configurations",
+  "peerDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Discord-Nucleus/configurations.git"
+  },
+  "version": "0.0.1"
 }
