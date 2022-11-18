@@ -41,16 +41,14 @@
 
 ## Usage <a name="usage"></a>
 
-### <img align="center"  width=20px height=20px src="assets/typescript.svg" /> TypeScript
-
+> ### <img align="center"  width=20px height=20px src="assets/typescript.svg" /> TypeScript
 > Add to your `tsconfig.json`:
 >
 > ```json
 > "extends": "@discord-nucleus/configurations/tsconfig.json"
 > ```
 
-### <img align="center"  width=20px height=20px src="assets/prettier.svg" /> Prettier
-
+> ### <img align="center"  width=20px height=20px src="assets/prettier.svg" /> Prettier
 > Add to your `package.json`:
 >
 > ```json
