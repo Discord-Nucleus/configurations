@@ -14,7 +14,9 @@
   "keywords": [
     "config",
     "tsconfig",
-    "typescript"
+    "typescript",
+    "prettier",
+    "prettierrc"
   ],
   "license": "MIT",
   "name": "@discord-nucleus/configurations",
