@@ -39,7 +39,7 @@
 > yarn add --dev @discord-nucleus/configurations
 > ```
 
-## Usage <a name="usage"></a>
+## 🔍️ Usage <a name="usage"></a>
 
 > ### <img align="center"  width=20px height=20px src="assets/typescript.svg" /> TypeScript
 > Add to your `tsconfig.json`:
