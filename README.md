@@ -52,5 +52,5 @@
 > Add to your `package.json`:
 >
 > ```json
-> "prettier": "@discord-nucleus/configurations/.prettierrc"
+> "prettier": "@discord-nucleus/configurations/prettier.config.js"
 > ```
