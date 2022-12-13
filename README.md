@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-  <img width=200px height=200px src="assets/icon.svg" alt="Project logo"></a>
+  <img width=200px height=200px src="https://raw.githubusercontent.com/Discord-Nucleus/assets/main/branding/configurations/icon.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">@discord-nucleus/configurations</h3>
@@ -27,13 +27,13 @@
 
 ## 📦️ Installing <a name = "installing"></a>
 
-> ### <img align="center"  width=20px height=20px src="assets/npm.svg" /> NPM
+> ### <img align="center"  width=20px height=20px src="https://raw.githubusercontent.com/Discord-Nucleus/assets/main/icons/npm.svg" /> NPM
 >
 > ```sh
 > npm install --save-dev @discord-nucleus/configurations
 > ```
 
-> ### <img align="center"  width=20px height=20px src="assets/yarn.svg" /> Yarn
+> ### <img align="center"  width=20px height=20px src="https://raw.githubusercontent.com/Discord-Nucleus/assets/main/icons/yarn.svg" /> Yarn
 >
 > ```sh
 > yarn add --dev @discord-nucleus/configurations
@@ -41,14 +41,16 @@
 
 ## 🔍️ Usage <a name="usage"></a>
 
-> ### <img align="center"  width=20px height=20px src="assets/typescript.svg" /> TypeScript
+> ### <img align="center"  width=20px height=20px src="https://raw.githubusercontent.com/Discord-Nucleus/assets/main/icons/typescript.svg" /> TypeScript
+>
 > Add to your `tsconfig.json`:
 >
 > ```json
 > "extends": "@discord-nucleus/configurations/tsconfig.json"
 > ```
 
-> ### <img align="center"  width=20px height=20px src="assets/prettier.svg" /> Prettier
+> ### <img align="center"  width=20px height=20px src="https://raw.githubusercontent.com/Discord-Nucleus/assets/main/icons/prettier.svg" /> Prettier
+>
 > Add to your `package.json`:
 >
 > ```json
